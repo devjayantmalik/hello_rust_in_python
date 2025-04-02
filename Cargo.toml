@@ -9,4 +9,4 @@ name = "hello_rust_in_python"
 crate-type = ["cdylib"]
 
 [dependencies]
-pyo3 = "0.20.0"
+pyo3 = "0.24.1"
